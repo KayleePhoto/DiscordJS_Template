@@ -2,6 +2,7 @@
  **DISCORD.JS BOT**  
  
  This is a template. It has most of everything you'll need.  
+ Download `Node.js` before starting this.  
   
 **RUN 'npm install' in your terminal or console. Open your console/terminal inside the folder, and run that command. This will install all npm files you may need, and that are currently used in this Template. Just in case, run 'npm install discord.js'**
    

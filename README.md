@@ -6,7 +6,7 @@
   
 **RUN 'npm install' in your terminal or console. Open your console/terminal inside the folder, and run that command. This will install all npm files you may need, and that are currently used in this Template. Just in case, run 'npm install discord.js'**
    
- Download it as a zip file, then extract it.  
+ Download the template 
  ![Image](https://i.imgur.com/USHw3mY.png)
  
 ## User presence
